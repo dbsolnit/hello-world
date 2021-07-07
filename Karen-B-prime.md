@@ -21,3 +21,7 @@ Tones B2/C2/D2 merge in citation form as 42&#660;. The final glottal stop is syn
 But D2 is distinguished
 + by not undergoing sandhi
 + by causing \*voiced initial obstruents to become aspirated, and \*voiced sonorants to become voiceless (prenasalized obstruents become voiced, as in all other tones).
+
+Below is a map of the Thailand-Burma area with Karen language areas in red and pink:
+
+![Karen Map](https://github.com/dbsolnit/hello-world/blob/master/Karen_map.png)
