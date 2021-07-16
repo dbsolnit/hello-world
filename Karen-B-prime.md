@@ -22,6 +22,13 @@ But D2 is distinguished
 + by not undergoing sandhi
 + by causing \*voiced initial obstruents to become aspirated, and \*voiced sonorants to become voiceless (prenasalized obstruents become voiced, as in all other tones).
 
-Below is a map of the Thailand-Burma area with Karen language areas in red and pink:
+Below is a map of the Thailand-Burma area with Karen language areas shown in red and pink:
 
 ![Karen Map](https://github.com/dbsolnit/hello-world/blob/master/Karen_map.png)
+
+Sgaw Tones \(check\)
+| |A | B| B'|
+--|--|--| ---
+|High|55|53&#660;|
+|Mid|55|53&#660;|
+|Low|33|11|
